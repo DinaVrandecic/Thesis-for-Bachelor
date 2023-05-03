@@ -1,0 +1,25 @@
+1) gori je search bar i kad pretrazimo neki mobitel izlista nan specifikacije koje su graficki prikazane ko u versusu
+2) na glavnoj stranici se nalazi list top by fans, top by interest i latest devices
+3) ako mi se bude dalo: ko na versusu napravit za top 10 graficku usporedbu
+
+
++zavrsit gledat yt video za parsiranje podataka
++parsirat podatke
+
+-kako napravit 1 request da stalno ne moran slat requestove
+-napravit tocku 1 u pythonu
+
+-naucit streamlit
+-malo uredit u streamlitu
+-hostat na streamlitu
+-polat mentoru da pogleda
+-nastavit
+
+
+py -m streamlit run E:\dina_faks\faks\6.semestar\zavrsni\test1.py
+py E:\dina_faks\faks\6.semestar\zavrsni\test1.py
+
+pitanja za mentora:
+-Ocu li uzet ovaj API ili neki drugi s kojin je lakse prikazat statisticke podatke?
+-Jeli Streamlit idealno okruzenje za phone specifications web stranicu? Ili mi je bolje radit s css i js?
+-Mogu li eventualno importat css i js i imali to smisla?
